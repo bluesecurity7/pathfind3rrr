@@ -13,8 +13,8 @@ Once an attacker successfully executes a Path Traversal attack, they can read, m
 
 ../../../etc/passwd  
 /etc/passwd  
+....//....//....//etc/passwd  
+..%252f..%252f..%252fetc/passwd  
+/var/www/images/../../../etc/passwd  
+../../../etc/passwd%00.png  
 
-....//....//....//etc/passwd
-..%252f..%252f..%252fetc/passwd
-/var/www/images/../../../etc/passwd
-../../../etc/passwd%00.png
